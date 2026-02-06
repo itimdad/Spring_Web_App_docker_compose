@@ -2,6 +2,7 @@ version: "3"
 
 services:
   application:
+    build: .
     image: spring-boot-mysql-app
     container_name: spring-container
     ports:
