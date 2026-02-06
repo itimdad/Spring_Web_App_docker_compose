@@ -11,7 +11,7 @@
 	<groupId>com.imdad</groupId>
 	<artifactId>15_Web_MVC_Book_App</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>15_Web_MVC_Book_App</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
